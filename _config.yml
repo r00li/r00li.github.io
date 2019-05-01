@@ -3,7 +3,7 @@ title: Andrej Rolih
 email: roli.r00li@gmail.com
 description: An iOS developer, hardware tinkerer and more > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.r00li.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 twitter_username: rolir00li
 github_username: r00li
